@@ -8,7 +8,7 @@
 
 Site institucional responsivo desenvolvido para apresentação de serviços técnicos. Projeto publicado no Netlify com foco em layout limpo e organização de conteúdo.
 
-🔗 **Demo:** [\[https://wallacy-tecnico.netlify.app\]](https://wallacy-tecnico.netlify.app/)(https://wallacy-tecnico.netlify.app)
+🔗 **Demo:** https://wallacy-tecnico.netlify.app/
 
 ---
 
